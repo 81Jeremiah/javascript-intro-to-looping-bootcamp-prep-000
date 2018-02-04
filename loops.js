@@ -21,7 +21,9 @@ function doWhileLoop(){
   return Math.random() >= 0.5
 
     do {
-      array.
+      console.log (maybeTrue.shift)
+    } while
+      
     }
     
   }
