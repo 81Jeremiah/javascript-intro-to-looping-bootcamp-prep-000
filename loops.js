@@ -22,9 +22,9 @@ function doWhileLoop(){
 
     do {
       console.log (maybeTrue.shift)
-    } while
+    } while (array.length > 0 && maybeTrue());
       
     }
-    
-  }
+    return array 
+  
 }
